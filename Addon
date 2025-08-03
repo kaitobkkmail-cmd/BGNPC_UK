@@ -1,0 +1,18 @@
+{ 
+"title"		:	"Background NPCs - UK NPC", 
+"type"		:	"npc", 
+"tags"		:	[ "fun", "roleplay" ], 
+"ignore"	: 
+    [ 
+        "*.psd*", 
+        "*.vcproj*", 
+        "*.svn*",
+        "*.git*",
+        "*LICENSE*",
+        "*.md*",
+        "*.code-workspace*",
+        ".git*",
+        ".vscode*",
+        "version.txt"
+    ] 
+} 
